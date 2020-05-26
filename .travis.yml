@@ -1,4 +1,4 @@
-cache: 
-  bundler: true
-  
+env:
+  global:
+  - MAIN=main
 script: echo one
