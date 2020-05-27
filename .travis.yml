@@ -4,6 +4,6 @@ env:
 
 import:
 - source: other.yml
-  mode: deep_merge
+  mode: merge
 
 script: echo one
